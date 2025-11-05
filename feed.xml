@@ -24,7 +24,7 @@
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://musicdeouf.github.io/Morning-FID-briefing/feed.xml" rel="self" type="application/rss+xml" />
     
-     <enclosure url="https://musicdeouf.github.io/Morning-FID-briefing/intro.wav" length="1200000" type="audio/mpeg"/>
+     <enclosure url="https://musicdeouf.github.io/Morning-FID-briefing/intro.wav" length="1200000" type="audio/wav"/>
     
      <item>
       <title>The ECB Podcast — How the ECB steers inflation</title>
