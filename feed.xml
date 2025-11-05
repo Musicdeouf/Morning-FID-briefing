@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+    <title>Morning Central Bank Brief</title>
+    <link>https://faurejulien23.github.io/morning-cb-brief/</link>
+    <language>en-US</language>
+    <copyright>© 2025 Morning Central Bank Brief</copyright>
+    <itunes:author>Morning Central Bank Brief</itunes:author>
+    <itunes:summary>Daily recap of monetary policy insights from the Fed, BoE, and ECB affecting European bond markets.</itunes:summary>
+    <description>Daily recap of monetary policy insights from the Fed, BoE, and ECB affecting European bond markets.</description>
+    <itunes:owner>
+      <itunes:name>Julien Faure</itunes:name>
+      <itunes:email>faurejulien23@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/European_Central_Bank_%28logo%29.svg/512px-European_Central_Bank_%28logo%29.svg.png"/>
+    <itunes:category text="Business">
+      <itunes:category text="Investing"/>
+    </itunes:category>
+    <atom:link href="https://faurejulien23.github.io/morning-cb-brief/feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>The ECB Podcast — How the ECB steers inflation</title>
+      <link>https://open.spotify.com/show/1E7EirKc3SF0dji6ZdwlVF</link>
+      <guid>ECB-2025-11-01</guid>
+      <pubDate>Sat, 01 Nov 2025 08:00:00 GMT</pubDate>
+      <description>Latest ECB Podcast episode on monetary policy and inflation outlook.</description>
+      <enclosure url="https://podcastcdn.euro.ecb.europa.eu/podcast/episode.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Bondcast — BoE and ECB outlook for rates</title>
+      <link>https://open.spotify.com/show/4TeErAwVO0fq90FDzF3wcj</link>
+      <guid>BONDCAST-2025-10-30</guid>
+      <pubDate>Thu, 30 Oct 2025 07:00:00 GMT</pubDate>
+      <description>BNP Paribas Bondcast team discusses the latest ECB and BoE rate expectations.</description>
+      <enclosure url="https://bnpparibas.podbean.com/mf/play/bondcast2025.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Reuters — Decoupling: Fed vs. ECB policies</title>
+      <link>https://www.reuters.com/podcasts/decoupling-fed-ecb-2025-10-29/</link>
+      <guid>REUTERS-2025-10-29</guid>
+      <pubDate>Wed, 29 Oct 2025 06:00:00 GMT</pubDate>
+      <description>Reuters macro team analyses diverging paths between the Fed and ECB.</description>
+      <enclosure url="https://reuters.podcast.cdn/decoupling2025.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Macro Minutes — Fed and US rates outlook</title>
+      <link>https://open.spotify.com/show/5rM9Y8P8kpjzZVYhN4LZoy</link>
+      <guid>MACRO-2025-10-28</guid>
+      <pubDate>Tue, 28 Oct 2025 07:30:00 GMT</pubDate>
+      <description>RBC’s Macro Minutes discusses the Fed’s next move and impact on Treasuries.</description>
+      <enclosure url="https://rbc.podcast.cdn/macrominutes2025.mp3" type="audio/mpeg"/>
+    </item>
+
+  </channel>
+</rss>
