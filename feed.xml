@@ -8,12 +8,12 @@
     <title>Morning FID Briefing</title>
     <link>https://musicdeouf.github.io/Morning-FID-briefing/</link>
     <language>en-US</language>
-    <copyright>© 2025 Morning FID Briefing</copyright>
-    <itunes:author>Morning FID Briefing</itunes:author>
-    <itunes:summary>Daily recap of monetary policy insights from the Fed, BoE, and ECB affecting European bond markets.</itunes:summary>
-    <description>Daily recap of monetary policy insights from the Fed, BoE, and ECB affecting European bond markets.</description>
+    <copyright>© 2025 Julien</copyright>
+    <itunes:author>Julien</itunes:author>
+    <itunes:summary>Daily macro and monetary policy insights from the Fed, BoE, and ECB impacting European bond markets.</itunes:summary>
+    <description>Daily macro and monetary policy insights from the Fed, BoE, and ECB impacting European bond markets.</description>
     <itunes:owner>
-      <itunes:name>Julien Faure</itunes:name>
+      <itunes:name>Julien</itunes:name>
       <itunes:email>faurejulien23@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://musicdeouf.github.io/Morning-FID-briefing/cover.png"/>
@@ -24,8 +24,25 @@
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://musicdeouf.github.io/Morning-FID-briefing/feed.xml" rel="self" type="application/rss+xml" />
 
+    <!-- Episode 1 -->
     <item>
-      <title>The ECB Podcast — How the ECB steers inflation</title>
+      <title>Welcome to the Morning FID Briefing</title>
+      <link>https://musicdeouf.github.io/Morning-FID-briefing/</link>
+      <guid>INTRO-2025-11-06</guid>
+      <pubDate>Thu, 06 Nov 2025 07:00:00 GMT</pubDate>
+      <description>Welcome message introducing the Morning FID Briefing podcast, providing daily insights on central bank policies and fixed income markets.</description>
+      <itunes:summary>Welcome to the Morning FID Briefing, your daily snapshot of central bank insights and fixed income developments across G7 markets.</itunes:summary>
+      <itunes:author>Julien</itunes:author>
+      <itunes:duration>12</itunes:duration>
+      <enclosure url="https://musicdeouf.github.io/Morning-FID-briefing/intro.wav" length="480000" type="audio/x-wav"/>
+      <content:encoded><![CDATA[
+        <p>Welcome to the Morning FID Briefing — your daily snapshot of central bank insights and fixed income developments across G7 markets.</p>
+      ]]></content:encoded>
+    </item>
+
+    <!-- Episode 2 -->
+    <item>
+      <title>ECB Podcast — How the ECB steers inflation</title>
       <link>https://open.spotify.com/show/1E7EirKc3SF0dji6ZdwlVF</link>
       <guid>ECB-2025-11-01</guid>
       <pubDate>Sat, 01 Nov 2025 08:00:00 GMT</pubDate>
@@ -33,11 +50,13 @@
       <itunes:summary>ECB Podcast — latest episode explaining how the ECB steers inflation in the euro area.</itunes:summary>
       <itunes:author>European Central Bank</itunes:author>
       <itunes:duration>1200</itunes:duration>
-      <enclosure url="https://musicdeouf.github.io/Morning-FID-briefing/intro.wav" length="1200000" type="audio/wav"/>
-      <enclosure url="https://podcastcdn.euro.ecb.europa.eu/podcast/episode.mp3" length="24000000" type="audio/mpeg"/>
-      <content:encoded><![CDATA[<p>ECB Podcast — latest episode explaining how the ECB steers inflation in the euro area.</p>]]></content:encoded>
+      <enclosure url="https://musicdeouf.github.io/Morning-FID-briefing/intro.wav" length="480000" type="audio/x-wav"/>
+      <content:encoded><![CDATA[
+        <p>ECB Podcast — latest episode explaining how the ECB steers inflation in the euro area.</p>
+      ]]></content:encoded>
     </item>
 
+    <!-- Episode 3 -->
     <item>
       <title>Bondcast — BoE and ECB outlook for rates</title>
       <link>https://open.spotify.com/show/4TeErAwVO0fq90FDzF3wcj</link>
@@ -47,34 +66,10 @@
       <itunes:summary>BNP Paribas Bondcast — insights into ECB and BoE rate paths.</itunes:summary>
       <itunes:author>BNP Paribas</itunes:author>
       <itunes:duration>900</itunes:duration>
-      <enclosure url="https://bnpparibas.podbean.com/mf/play/bondcast2025.mp3" length="18000000" type="audio/mpeg"/>
-      <content:encoded><![CDATA[<p>BNP Paribas Bondcast — insights into ECB and BoE rate paths.</p>]]></content:encoded>
-    </item>
-
-    <item>
-      <title>Reuters — Decoupling: Fed vs. ECB policies</title>
-      <link>https://www.reuters.com/podcasts/decoupling-fed-ecb-2025-10-29/</link>
-      <guid>REUTERS-2025-10-29</guid>
-      <pubDate>Wed, 29 Oct 2025 06:00:00 GMT</pubDate>
-      <description>Reuters macro team analyses diverging paths between the Fed and ECB.</description>
-      <itunes:summary>Reuters podcast — comparing diverging monetary policy paths between the Fed and the ECB.</itunes:summary>
-      <itunes:author>Reuters</itunes:author>
-      <itunes:duration>1100</itunes:duration>
-      <enclosure url="https://reuters.podcast.cdn/decoupling2025.mp3" length="22000000" type="audio/mpeg"/>
-      <content:encoded><![CDATA[<p>Reuters macro team analyses diverging paths between the Fed and ECB.</p>]]></content:encoded>
-    </item>
-
-    <item>
-      <title>Macro Minutes — Fed and US rates outlook</title>
-      <link>https://open.spotify.com/show/5rM9Y8P8kpjzZVYhN4LZoy</link>
-      <guid>MACRO-2025-10-28</guid>
-      <pubDate>Tue, 28 Oct 2025 07:30:00 GMT</pubDate>
-      <description>RBC’s Macro Minutes discusses the Fed’s next move and impact on Treasuries.</description>
-      <itunes:summary>RBC Capital Markets’ Macro Minutes — discussion on the Fed’s rate trajectory and implications for US Treasuries.</itunes:summary>
-      <itunes:author>RBC Capital Markets</itunes:author>
-      <itunes:duration>800</itunes:duration>
-      <enclosure url="https://rbc.podcast.cdn/macrominutes2025.mp3" length="16000000" type="audio/mpeg"/>
-      <content:encoded><![CDATA[<p>RBC’s Macro Minutes discusses the Fed’s next move and impact on Treasuries.</p>]]></content:encoded>
+      <enclosure url="https://musicdeouf.github.io/Morning-FID-briefing/intro.wav" length="480000" type="audio/x-wav"/>
+      <content:encoded><![CDATA[
+        <p>BNP Paribas Bondcast — insights into ECB and BoE rate paths.</p>
+      ]]></content:encoded>
     </item>
 
   </channel>
