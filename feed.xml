@@ -10,8 +10,8 @@
     <language>en-US</language>
     <copyright>© 2025 Julien</copyright>
     <itunes:author>Julien</itunes:author>
-    <itunes:summary>Daily macro and monetary policy insights from the Fed, BoE, and ECB impacting European bond markets.</itunes:summary>
-    <description>Daily macro and monetary policy insights from the Fed, BoE, and ECB impacting European bond markets.</description>
+    <itunes:summary>Daily macro and central bank highlights with curated insights from Bloomberg, ECB, and other market sources.</itunes:summary>
+    <description>Daily macro and central bank highlights with curated insights from Bloomberg, ECB, and other market sources.</description>
     <itunes:owner>
       <itunes:name>Julien</itunes:name>
       <itunes:email>faurejulien23@gmail.com</itunes:email>
@@ -24,14 +24,14 @@
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://musicdeouf.github.io/Morning-FID-briefing/feed.xml" rel="self" type="application/rss+xml" />
 
-    <!-- Episode 1 -->
+    <!-- Episode 1: local intro (has enclosure) -->
     <item>
       <title>Welcome to the Morning FID Briefing</title>
       <link>https://musicdeouf.github.io/Morning-FID-briefing/</link>
       <guid>INTRO-2025-11-06</guid>
       <pubDate>Thu, 06 Nov 2025 07:00:00 GMT</pubDate>
-      <description>Welcome message introducing the Morning FID Briefing podcast, providing daily insights on central bank policies and fixed income markets.</description>
-      <itunes:summary>Welcome to the Morning FID Briefing, your daily snapshot of central bank insights and fixed income developments across G7 markets.</itunes:summary>
+      <description>Introduction to the Morning FID Briefing podcast — your daily snapshot of central bank insights and fixed income developments across G7 markets.</description>
+      <itunes:summary>Welcome to the Morning FID Briefing — a daily snapshot of central bank insights and fixed income developments.</itunes:summary>
       <itunes:author>Julien</itunes:author>
       <itunes:duration>12</itunes:duration>
       <enclosure url="https://musicdeouf.github.io/Morning-FID-briefing/intro.wav" length="480000" type="audio/x-wav"/>
@@ -40,35 +40,33 @@
       ]]></content:encoded>
     </item>
 
-    <!-- Episode 2 -->
+    <!-- Episode 2: Bloomberg News Now reference (no enclosure) -->
     <item>
-      <title>ECB Podcast — How the ECB steers inflation</title>
-      <link>https://open.spotify.com/show/1E7EirKc3SF0dji6ZdwlVF</link>
-      <guid>ECB-2025-11-01</guid>
-      <pubDate>Sat, 01 Nov 2025 08:00:00 GMT</pubDate>
-      <description>Latest ECB Podcast episode on monetary policy and inflation outlook.</description>
-      <itunes:summary>ECB Podcast — latest episode explaining how the ECB steers inflation in the euro area.</itunes:summary>
-      <itunes:author>European Central Bank</itunes:author>
-      <itunes:duration>1200</itunes:duration>
-      <enclosure url="https://musicdeouf.github.io/Morning-FID-briefing/intro.wav" length="480000" type="audio/x-wav"/>
+      <title>Market Morning Update — Bloomberg News Now</title>
+      <link>https://open.spotify.com/show/1jI5U2f3s7mQSTZJY0K2aK</link>
+      <guid>BLOOMBERG-NEWSNOW-2025-11-06</guid>
+      <pubDate>Thu, 06 Nov 2025 07:15:00 GMT</pubDate>
+      <description>Morning briefing including Bloomberg News Now headlines on markets, central banks, and macroeconomic trends. Click to listen directly on Spotify.</description>
+      <itunes:summary>Bloomberg News Now — latest headlines impacting global markets and policy. Linked for direct listening.</itunes:summary>
+      <itunes:author>Bloomberg</itunes:author>
+      <itunes:duration>300</itunes:duration>
       <content:encoded><![CDATA[
-        <p>ECB Podcast — latest episode explaining how the ECB steers inflation in the euro area.</p>
+        <p>This briefing includes highlights from <a href="https://open.spotify.com/show/1jI5U2f3s7mQSTZJY0K2aK">Bloomberg News Now</a> — a trusted source for global market and central bank updates. Click the link to listen to the original episode on Bloomberg/Spotify.</p>
       ]]></content:encoded>
     </item>
 
-    <!-- Episode 3 -->
+    <!-- Episode 3: example other item (keeps local intro as enclosure only if you want) -->
     <item>
-      <title>Bondcast — BoE and ECB outlook for rates</title>
-      <link>https://open.spotify.com/show/4TeErAwVO0fq90FDzF3wcj</link>
-      <guid>BONDCAST-2025-10-30</guid>
-      <pubDate>Thu, 30 Oct 2025 07:00:00 GMT</pubDate>
-      <description>BNP Paribas Bondcast team discusses the latest ECB and BoE rate expectations.</description>
-      <itunes:summary>BNP Paribas Bondcast — insights into ECB and BoE rate paths.</itunes:summary>
-      <itunes:author>BNP Paribas</itunes:author>
-      <itunes:duration>900</itunes:duration>
-      <enclosure url="https://musicdeouf.github.io/Morning-FID-briefing/intro.wav" length="480000" type="audio/x-wav"/>
+      <title>ECB Podcast — How the ECB steers inflation (reference)</title>
+      <link>https://www.ecb.europa.eu/podcasts/html/index.en.html</link>
+      <guid>ECB-REF-2025-11-01</guid>
+      <pubDate>Sat, 01 Nov 2025 08:00:00 GMT</pubDate>
+      <description>Reference to the ECB Podcast episode on monetary policy and inflation outlook. Click to listen on the ECB site or via your preferred podcast app.</description>
+      <itunes:summary>ECB Podcast — latest episode explaining how the ECB steers inflation in the euro area. Linked for direct listening.</itunes:summary>
+      <itunes:author>European Central Bank</itunes:author>
+      <itunes:duration>1200</itunes:duration>
       <content:encoded><![CDATA[
-        <p>BNP Paribas Bondcast — insights into ECB and BoE rate paths.</p>
+        <p>ECB Podcast — latest episode explaining how the ECB steers inflation in the euro area. Listen on the ECB site or follow the link to your podcast platform.</p>
       ]]></content:encoded>
     </item>
 
